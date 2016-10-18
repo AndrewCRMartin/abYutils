@@ -8,5 +8,7 @@ Extracts antibody DNA sequence data from abYsis XML data files. Run as
 
     ./getspeciesabs.pl -h
 
-for help.
+for help. Only antibodies that have a numbered variable domain are
+extracted.
+
 
